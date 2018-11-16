@@ -1,4 +1,3 @@
-# [BDMessenger](https://t.me/TeleBeyondApiBot)
 
 [![Bot API](http://img.shields.io/badge/Bot%20API-v3.5-00aced.svg)](https://core.telegram.org/bots/api)
 [![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
